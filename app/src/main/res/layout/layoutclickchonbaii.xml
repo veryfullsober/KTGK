@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/chon"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="Chọn"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:translationX="40dp"
+        android:translationY="520dp" />
+
+    <Button
+        android:id="@+id/baiso5"
+        android:layout_width="200sp"
+        android:layout_height="75dp"
+        android:text="5"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:translationX="210dp"
+        android:translationY="350dp" />
+
+    <Button
+        android:id="@+id/baiso4"
+        android:layout_width="200sp"
+        android:layout_height="75dp"
+        android:text="4"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:translationX="0dp"
+        android:translationY="350dp" />
+
+    <Button
+        android:id="@+id/baiso6"
+        android:layout_width="500dp"
+        android:layout_height="75dp"
+        android:text="6"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:translationX="0dp"
+        android:translationY="440dp" />
+
+    <Button
+        android:id="@+id/baiso2"
+        android:layout_width="120dp"
+        android:layout_height="75dp"
+        android:text="2"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:translationX="145dp"
+        android:translationY="270dp" />
+
+    <Button
+        android:id="@+id/baiso3"
+        android:layout_width="120dp"
+        android:layout_height="75dp"
+        android:text="3"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:translationX="280dp"
+        android:translationY="270dp" />
+
+    <TextView
+        android:id="@+id/baiso"
+        android:layout_width="120sp"
+        android:layout_height="50sp"
+        android:text="Bài số"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:translationX="150sp"
+        android:translationY="75sp" />
+
+    <Button
+        android:id="@+id/baiso1"
+        android:layout_width="120dp"
+        android:layout_height="75dp"
+        android:text="1"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:translationY="270dp" />
+</RelativeLayout>
